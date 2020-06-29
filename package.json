@@ -1,5 +1,5 @@
 {
-  "name": "meloger",
+  "name": "labonneaffaire",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "curl-request": "^1.1.1"
+    "curl-request": "^1.1.1",
+    "html-to-json": "^0.6.0",
+    "is-odd": "^3.0.1",
+    "jsonfile": "^6.0.1",
+    "path": "^0.12.7"
   }
 }
