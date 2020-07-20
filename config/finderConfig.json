@@ -2,17 +2,17 @@
    "city":[
       {
          "codePostal":"75001",
-         "linkCastorus":"Paris+1er+Ardsmnt,32692,9",
-         "prixM2Max":5500
+         "linkCastorus":"Paris+1er+Ardsmnt,32692,2",
+         "prixM2Max":4500
       },
       {
          "codePostal":"75002",
-         "linkCastorus":"Paris+2eme+Ardsmnt,32693,9",
+         "linkCastorus":"Paris+2eme+Ardsmnt,32693,2",
          "prixM2Max":4500
       },
       {
          "codePostal":"75003",
-         "linkCastorus":"Paris+3eme+Ardsmnt,32694,9",
+         "linkCastorus":"Paris+3eme+Ardsmnt,32694,2",
          "prixM2Max":4500
       },
       {
@@ -97,13 +97,13 @@
       },
       {
          "codePostal":"75020",
-         "linkCastorus":"Paris+20eme+Ardsmnt,32711,9",
-         "prixM2Max":5500
+         "linkCastorus":"Paris+20eme+Ardsmnt,32711,2",
+         "prixM2Max":4500
       },
       {
          "codePostal":"95880",
          "linkCastorus":"Enghien+Les+Bains,38816,2",
-         "prixM2Max":5500,
+         "prixM2Max":4000,
         "motsInterdits":[
             "Montmorency"
         ]
@@ -111,13 +111,13 @@
       {
          "codePostal":"95880",
          "linkCastorus":"Enghien+Les+Bains,38816,9",
-         "prixM2Max":5500,
+         "prixM2Max":4000,
         "motsInterdits":[
             "Montmorency"
         ]
       }
    ],
-   "prixMax":200000,
+   "prixMax":400000,
    "prixMin":100000,
    "surfaceMin":15,
    "motsInterdits":[
