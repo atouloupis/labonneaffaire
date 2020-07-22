@@ -41,6 +41,7 @@ function getCastorus (name,startUrl)
     //const story = new CollectContent('section.meteredContent', { name: 'story' });//"Collects" the the article body.
  
     // root.addOperation(bien);//Then we create a scraping "tree":
+
 	root.addOperation(title);
 	root.addOperation(pricemeter);
 	root.addOperation(surf);
@@ -52,9 +53,10 @@ function getCastorus (name,startUrl)
       // bien.addOperation(story);
 
     await scraper.scrape(root);
-  // console.log(root); 
-
-    fs.writeFile('./extracts/'+name+'.json', JSON.stringify(biens), () => { })//Will produce a formatted JSON containing all article pages and their selected data.  
+	biens[0]=Object.assign(biens[0],{codepostal:name});
+    fs.writeFile('./extracts/'+name+'.json', JSON.stringify(biens), () => { })//Will produce a formatted JSON containing all article pages and their selected data.
+ 
+})();    
  
 }
 
