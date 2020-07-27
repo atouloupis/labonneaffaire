@@ -2,14 +2,14 @@ var nodemailer = require('nodemailer');
 const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
 
 
-export default function sendMail(body)
+function sendMail(body)
 {
   const event = new Date();
   var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
      user: 'good.kat.official@gmail.com',
-     pass: 'Erty123!'
+     pass: 'Erty125!'
    }
   });
 
@@ -28,3 +28,5 @@ export default function sendMail(body)
    }
   });
 }
+
+module.exports.sendMail = sendMail;

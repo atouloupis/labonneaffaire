@@ -1,117 +1,44 @@
 {
    "city":[
       {
-         "codePostal":"75001",
-         "linkCastorus":"Paris+1er+Ardsmnt,32692,2",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75002",
-         "linkCastorus":"Paris+2eme+Ardsmnt,32693,2",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75003",
-         "linkCastorus":"Paris+3eme+Ardsmnt,32694,2",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75004",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75005",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75006",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75007",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75008",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75009",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":5500
-      },
-      {
-         "codePostal":"75010",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75011",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75012",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75013",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75014",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75015",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
-         "codePostal":"75016",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
-      },
-      {
          "codePostal":"75017",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
+         "linkCastorus":"paris-17eme-ardsmnt,32708,2",
+         "prixM2Max":12000,
+		 "prixM2Vente2020":10000,
+		 "prixM2Vente2019":12000,
+		 "prixM2VenteEstime":12000
       },
       {
          "codePostal":"75018",
-         "linkCastorus":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
+         "linkCastorus":"Paris+18eme+Ardsmnt,32709,2",
+         "prixM2Max":12000,
+		 "prixM2Vente2020":12000,
+		 "prixM2Vente2019":12000,
+		 "prixM2VenteEstime":12000
       },
       {
          "codePostal":"75019",
-         "link":"Paris-20eme-ardsmnt,32709,9",
-         "prixM2Max":4500
+         "linkCastorus":"Paris+19eme+Ardsmnt,32710,2",
+         "prixM2Max":7000,
+		 "prixM2Vente2020":10000,
+		 "prixM2Vente2019":10000,
+		 "prixM2VenteEstime":9000
       },
       {
          "codePostal":"75020",
          "linkCastorus":"Paris+20eme+Ardsmnt,32711,2",
-         "prixM2Max":4500
+         "prixM2Max":8000,
+		 "prixM2Vente2020":10000,
+		 "prixM2Vente2019":10000,
+		 "prixM2VenteEstime":10000
       },
       {
          "codePostal":"95880",
          "linkCastorus":"Enghien+Les+Bains,38816,2",
          "prixM2Max":4500,
-        "motsInterdits":[
-            "Montmorency"
-        ]
-      },
-      {
-         "codePostal":"95880",
-         "linkCastorus":"Enghien+Les+Bains,38816,9",
-         "prixM2Max":4500,
+		 "prixM2Vente2020":5400,
+		 "prixM2Vente2019":5100,
+		 "prixM2VenteEstime":6200,
         "motsInterdits":[
             "Montmorency"
         ]
@@ -119,6 +46,14 @@
    ],
    "prixMax":400000,
    "prixMin":100000,
+   "apport":40000,
+   "droits_mutation":0.02,
+   "frais_agence":0.05,
+   "frais_dossier":2500,
+   "garantie_banque":0.007,
+   "renovation":1000,
+   "interetcrédit":0.03,
+   "fraislevebancaire":1500,
    "surfaceMin":15,
    "motsInterdits":[
       "viager",

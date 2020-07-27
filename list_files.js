@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-
+function list_files(callback){
 // retourner la liste des Fichiers
 const walkSync = function(dir, filelist) {
             var path = path || require('path');
@@ -20,11 +20,23 @@ const walkSync = function(dir, filelist) {
 
         };
 
+		
 ///Concatene et enregistre les fichiers
 const extracts = walkSync("./extracts");
 var tabledata=[];
+var count=0;
 extracts.forEach(element => {
 let data = require(".\\"+element);
 tabledata.push(data);
-fs.writeFile('./total.json', JSON.stringify(tabledata), () => { })
-});
+fs.writeFile('./total.json', JSON.stringify(tabledata), () => {
+	count++;
+		if (count==extracts.length){
+		callback();
+			}
+		})
+	});
+
+
+}
+
+module.exports.list_files = list_files;
