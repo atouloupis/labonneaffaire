@@ -55,11 +55,11 @@ if (list_title!=undefined){
 							var bien = {
 							"title":list_title[j],
 							"codepostal":list_codepostal,
-							"prix":prix_achat,
+							"prix":Math.round(prix_achat)+"€",
 							"depuis":list_depuis[j],
-							"gain estimé":gain_brut,
-							"rendement":rendement,
-							"gain net":gain_net,
+							"gain estimé":Math.round(gain_brut)+"€",
+							"rendement":Math.round(rendement*100)+"%",
+							"gain net":Math.round(gain_net)+"€",
 							"lien":list_link[j].address
 							}
 							good_list.push(bien);

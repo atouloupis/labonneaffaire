@@ -1,4 +1,2 @@
-//Cron file
-
 0 1 * * * root node /home/labonneaffaire/castorus.js > /dev/null 2>&1
 0 2 * * * root node /home/labonneaffaire/tri_biens.js > /dev/null 2>&1

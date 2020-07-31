@@ -22,11 +22,11 @@ const walkSync = function(dir, filelist) {
 
 		
 ///Concatene et enregistre les fichiers
-const extracts = walkSync("./extracts");
+const extracts = walkSync("/home/labonneaffaire/extracts");
 var tabledata=[];
 var count=0;
 extracts.forEach(element => {
-let data = require(".\\"+element);
+let data = require(element);
 tabledata.push(data);
 fs.writeFile('./total.json', JSON.stringify(tabledata), () => {
 	count++;
