@@ -8,10 +8,10 @@ function getCastorus (name,startUrl)
     const config = {
         baseSiteUrl: `https://www.castorus.com/`,
         startUrl: startUrl,
-        filePath: './castorus/',
+        filePath: '/home/labonneaffaire/castorus/',
         concurrency: 10,//Maximum concurrent jobs. More than 10 is not recommended.Default is 3.
         maxRetries: 3,//The scraper will try to repeat a failed request few times(excluding 404). Default is 5.       
-        logPath: './logs/'//Highly recommended: Creates a friendly JSON for each operation object, with all the relevant data. 
+        logPath: '/home/labonneaffaire/logs/'//Highly recommended: Creates a friendly JSON for each operation object, with all the relevant data. 
     }
  
     const biens = [];//Holds all article objects.
@@ -54,7 +54,7 @@ function getCastorus (name,startUrl)
 
     await scraper.scrape(root);
 	biens[0]=Object.assign(biens[0],{codepostal:name});
-    fs.writeFile('./extracts/'+name+'.json', JSON.stringify(biens), () => { })//Will produce a formatted JSON containing all article pages and their selected data.
+    fs.writeFile('/home/labonneaffaire/extracts/'+name+'.json', JSON.stringify(biens), () => { })//Will produce a formatted JSON containing all article pages and their selected data.
  
 })();    
  

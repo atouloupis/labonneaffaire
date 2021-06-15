@@ -9,7 +9,7 @@ function sendMail(body)
     service: 'gmail',
     auth: {
      user: 'good.kat.official@gmail.com',
-     pass: 'Erty125!'
+     pass: 'Erty27041980!'
    }
   });
 

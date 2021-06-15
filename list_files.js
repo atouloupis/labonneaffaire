@@ -22,13 +22,13 @@ const walkSync = function(dir, filelist) {
 
 		
 ///Concatene et enregistre les fichiers
-const extracts = walkSync("/home/labonneaffaire/extracts");
+const extracts = walkSync(path.join(__dirname,"./extracts"));
 var tabledata=[];
 var count=0;
 extracts.forEach(element => {
 let data = require(element);
 tabledata.push(data);
-fs.writeFile('./total.json', JSON.stringify(tabledata), () => {
+fs.writeFile(path.join(__dirname,'./total.json'), JSON.stringify(tabledata), () => {
 	count++;
 		if (count==extracts.length){
 		callback();

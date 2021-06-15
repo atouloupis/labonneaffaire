@@ -4,7 +4,7 @@
 const path = require('path');
 var finderConfig = path.join(__dirname, './config/finderConfig.json');
 var jsonfile = require('jsonfile');
-const getCastorus = require('./getCastorus.js');
+const getCastorus = require('/home/labonneaffaire/getCastorus.js');
 
 jsonfile.readFile(finderConfig, function (err, finder) {
 	if (err) return console.log(err);

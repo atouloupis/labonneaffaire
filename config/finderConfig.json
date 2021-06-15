@@ -1,9 +1,129 @@
 {
    "city":[
       {
+         "codePostal":"75001",
+         "linkCastorus":"paris-1er-ardsmnt,32692,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75002",
+         "linkCastorus":"paris-2eme-ardsmnt,32693,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75003",
+         "linkCastorus":"paris-3eme-ardsmnt,32694,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75004",
+         "linkCastorus":"paris-4eme-ardsmnt,32695,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75005",
+         "linkCastorus":"paris-5eme-ardsmnt,32696,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75006",
+         "linkCastorus":"paris-6eme-ardsmnt,32697,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75007",
+         "linkCastorus":"paris-7eme-ardsmnt,32698,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75008",
+         "linkCastorus":"paris-8eme-ardsmnt,32699,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75009",
+         "linkCastorus":"paris-9eme-ardsmnt,32700,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75010",
+         "linkCastorus":"paris-10eme-ardsmnt,32701,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75011",
+         "linkCastorus":"paris-11eme-ardsmnt,32702,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75012",
+         "linkCastorus":"paris-12eme-ardsmnt,32703,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75014",
+         "linkCastorus":"paris-14eme-ardsmnt,32705,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75015",
+         "linkCastorus":"paris-15eme-ardsmnt,32706,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
+         "codePostal":"75016",
+         "linkCastorus":"paris-16eme-ardsmnt,32707,2",
+         "prixM2Max":10000,
+                 "prixM2Vente2020":10000,
+                 "prixM2Vente2019":12000,
+                 "prixM2VenteEstime":12000
+      },
+      {
          "codePostal":"75017",
          "linkCastorus":"paris-17eme-ardsmnt,32708,2",
-         "prixM2Max":12000,
+         "prixM2Max":10000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":12000,
 		 "prixM2VenteEstime":12000
@@ -11,7 +131,7 @@
       {
          "codePostal":"75018",
          "linkCastorus":"Paris+18eme+Ardsmnt,32709,2",
-         "prixM2Max":12000,
+         "prixM2Max":9000,
 		 "prixM2Vente2020":12000,
 		 "prixM2Vente2019":12000,
 		 "prixM2VenteEstime":12000
@@ -19,7 +139,7 @@
       {
          "codePostal":"75019",
          "linkCastorus":"Paris+19eme+Ardsmnt,32710,2",
-         "prixM2Max":7000,
+         "prixM2Max":9000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":10000,
 		 "prixM2VenteEstime":9000
@@ -27,7 +147,7 @@
       {
          "codePostal":"75020",
          "linkCastorus":"Paris+20eme+Ardsmnt,32711,2",
-         "prixM2Max":8000,
+         "prixM2Max":9000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":10000,
 		 "prixM2VenteEstime":10000
@@ -35,26 +155,45 @@
       {
          "codePostal":"95880",
          "linkCastorus":"Enghien+Les+Bains,38816,2",
-         "prixM2Max":4500,
+         "prixM2Max":5100,
 		 "prixM2Vente2020":5400,
 		 "prixM2Vente2019":5100,
 		 "prixM2VenteEstime":6200,
         "motsInterdits":[
-            "Montmorency"
+            "Epinay"
         ]
       },
       {
-         "codePostal":"95210",
-         "linkCastorus":"St+Gratien,38640,2",
-         "prixM2Max":3500,
-		 "prixM2Vente2020":4200,
-		 "prixM2Vente2019":4200,
-		 "prixM2VenteEstime":5000
+         "codePostal":"95880",
+         "linkCastorus":"Enghien+Les+Bains,38816,1",
+         "prixM2Max":5100,
+                 "prixM2Vente2020":5400,
+                 "prixM2Vente2019":5100,
+                 "prixM2VenteEstime":6200,
+        "motsInterdits":[
+            "Epinay"
+        ]
+      },
+      {
+         "codePostal":"95160",
+         "linkCastorus":"Montmorency,38633,2",
+         "prixM2Max":4500,
+                 "prixM2Vente2020":4200,
+                 "prixM2Vente2019":4200,
+                 "prixM2VenteEstime":4000
+      },
+      {
+         "codePostal":"95160",
+         "linkCastorus":"Montmorency,38633,1",
+         "prixM2Max":4500,
+                 "prixM2Vente2020":4200,
+                 "prixM2Vente2019":4200,
+                 "prixM2VenteEstime":4000
       }
    ],
-   "prixMax":400000,
-   "prixMin":100000,
-   "apport":40000,
+   "prixMax":420000,
+   "prixMin":250000,
+   "apport":80000,
    "droits_mutation":0.02,
    "frais_agence":0.05,
    "frais_dossier":2500,
@@ -62,10 +201,12 @@
    "renovation":1000,
    "interetcrédit":0.03,
    "fraislevebancaire":1500,
-   "surfaceMin":15,
+   "surfaceMin":65,
    "motsInterdits":[
       "viager",
       "neuf",
-      "contractuelle"
+      "contractuelle",
+      "BBC",
+      "RT2012"
    ]
 }
