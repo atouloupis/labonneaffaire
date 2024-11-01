@@ -2,159 +2,215 @@
    "city":[
       {
          "codePostal":"75001",
-         "linkCastorus":"paris-1er-ardsmnt,32692,2",
+         "linkCastorus":"paris-1er-ardsmnt,32692",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75002",
-         "linkCastorus":"paris-2eme-ardsmnt,32693,2",
+         "linkCastorus":"paris-2eme-ardsmnt,32693",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75003",
-         "linkCastorus":"paris-3eme-ardsmnt,32694,2",
+         "linkCastorus":"paris-3eme-ardsmnt,32694",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75004",
-         "linkCastorus":"paris-4eme-ardsmnt,32695,2",
+         "linkCastorus":"paris-4eme-ardsmnt,32695",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75005",
-         "linkCastorus":"paris-5eme-ardsmnt,32696,2",
+         "linkCastorus":"paris-5eme-ardsmnt,32696",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75006",
-         "linkCastorus":"paris-6eme-ardsmnt,32697,2",
+         "linkCastorus":"paris-6eme-ardsmnt,32697",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75007",
-         "linkCastorus":"paris-7eme-ardsmnt,32698,2",
+         "linkCastorus":"paris-7eme-ardsmnt,32698",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75008",
-         "linkCastorus":"paris-8eme-ardsmnt,32699,2",
+         "linkCastorus":"paris-8eme-ardsmnt,32699",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75009",
-         "linkCastorus":"paris-9eme-ardsmnt,32700,2",
+         "linkCastorus":"paris-9eme-ardsmnt,32700",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75010",
-         "linkCastorus":"paris-10eme-ardsmnt,32701,2",
+         "linkCastorus":"paris-10eme-ardsmnt,32701",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75011",
-         "linkCastorus":"paris-11eme-ardsmnt,32702,2",
+         "linkCastorus":"paris-11eme-ardsmnt,32702",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75012",
-         "linkCastorus":"paris-12eme-ardsmnt,32703,2",
+         "linkCastorus":"paris-12eme-ardsmnt,32703",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75014",
-         "linkCastorus":"paris-14eme-ardsmnt,32705,2",
+         "linkCastorus":"paris-14eme-ardsmnt,32705",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75015",
-         "linkCastorus":"paris-15eme-ardsmnt,32706,2",
+         "linkCastorus":"paris-15eme-ardsmnt,32706",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75016",
-         "linkCastorus":"paris-16eme-ardsmnt,32707,2",
+         "linkCastorus":"paris-16eme-ardsmnt,32707",
          "prixM2Max":10000,
                  "prixM2Vente2020":10000,
                  "prixM2Vente2019":12000,
-                 "prixM2VenteEstime":12000
+                 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75017",
-         "linkCastorus":"paris-17eme-ardsmnt,32708,2",
+         "linkCastorus":"paris-17eme-ardsmnt,32708",
          "prixM2Max":10000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":12000,
-		 "prixM2VenteEstime":12000
+		 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
       },
       {
          "codePostal":"75018",
-         "linkCastorus":"Paris+18eme+Ardsmnt,32709,2",
+         "linkCastorus":"Paris+18eme+Ardsmnt,32709",
          "prixM2Max":9000,
 		 "prixM2Vente2020":12000,
 		 "prixM2Vente2019":12000,
-		 "prixM2VenteEstime":12000
+		 "prixM2VenteEstime":12000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75019",
-         "linkCastorus":"Paris+19eme+Ardsmnt,32710,2",
+         "linkCastorus":"Paris+19eme+Ardsmnt,32710",
          "prixM2Max":9000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":10000,
-		 "prixM2VenteEstime":9000
+		 "prixM2VenteEstime":9000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"75020",
-         "linkCastorus":"Paris+20eme+Ardsmnt,32711,2",
+         "linkCastorus":"Paris+20eme+Ardsmnt,32711",
          "prixM2Max":9000,
 		 "prixM2Vente2020":10000,
 		 "prixM2Vente2019":10000,
-		 "prixM2VenteEstime":10000
+		 "prixM2VenteEstime":10000,
+        "motsInterdits":[
+        ]
+
       },
       {
          "codePostal":"95880",
-         "linkCastorus":"Enghien+Les+Bains,38816,2",
+         "linkCastorus":"Enghien+Les+Bains,38816",
          "prixM2Max":5100,
 		 "prixM2Vente2020":5400,
 		 "prixM2Vente2019":5100,
@@ -164,31 +220,14 @@
         ]
       },
       {
-         "codePostal":"95880",
-         "linkCastorus":"Enghien+Les+Bains,38816,1",
-         "prixM2Max":5100,
-                 "prixM2Vente2020":5400,
-                 "prixM2Vente2019":5100,
-                 "prixM2VenteEstime":6200,
+         "codePostal":"95160",
+         "linkCastorus":"Montmorency,38633",
+         "prixM2Max":4500,
+                 "prixM2Vente2020":4200,
+                 "prixM2Vente2019":4200,
+                 "prixM2VenteEstime":4000,
         "motsInterdits":[
-            "Epinay"
         ]
-      },
-      {
-         "codePostal":"95160",
-         "linkCastorus":"Montmorency,38633,2",
-         "prixM2Max":4500,
-                 "prixM2Vente2020":4200,
-                 "prixM2Vente2019":4200,
-                 "prixM2VenteEstime":4000
-      },
-      {
-         "codePostal":"95160",
-         "linkCastorus":"Montmorency,38633,1",
-         "prixM2Max":4500,
-                 "prixM2Vente2020":4200,
-                 "prixM2Vente2019":4200,
-                 "prixM2VenteEstime":4000
       }
    ],
    "prixMax":420000,

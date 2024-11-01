@@ -14,9 +14,11 @@
     "json-concat": "0.0.1",
     "json2html": "0.0.8",
     "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.7",
     "node-gyp": "^7.1.2",
     "node-libcurl": "^2.3.3",
-    "nodejs-web-scraper": "^3.3.0",
+    "nodejs-web-scraper": "^6.0.1",
     "nodemailer": "^6.6.1",
     "path": "^0.12.7"
   },

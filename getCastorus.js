@@ -33,7 +33,7 @@ function getCastorus (name,startUrl)
 	const link = new OpenLinks('td.title a',{name:'link'});//read link
 
 	
-    // const price = new CollectContent('div.affprixbigs', { name: 'price' });//Downloads images. *It's important to choose a name, for the
+     const detail = new CollectContent('#top_annonce > div.colleft > div:nth-child(5)', { name: 'detail' });//Downloads images. *It's important to choose a name, for the
     //getPageObject hook to produce the expected results.*  
  
     // const title = new CollectContent('h1 h1ficheannonce', { name: 'title' });//"Collects" the text from each H1 element.
@@ -47,13 +47,16 @@ function getCastorus (name,startUrl)
 	root.addOperation(surf);
 	root.addOperation(since);
 	root.addOperation(link);
+	link.addOperation(detail);
 	// link.addOperation(price);
        // bien.addOperation(price);
        // bien.addOperation(title);
       // bien.addOperation(story);
 
     await scraper.scrape(root);
+
 	biens[0]=Object.assign(biens[0],{codepostal:name});
+console.log(biens);
     fs.writeFile('/home/labonneaffaire/extracts/'+name+'.json', JSON.stringify(biens), () => { })//Will produce a formatted JSON containing all article pages and their selected data.
  
 })();    

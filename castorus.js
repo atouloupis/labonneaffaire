@@ -19,5 +19,5 @@ for (var i=0;i<finder.city.length;i++){
 
 function getDetails1(list,finder)
 {
- getCastorus.getCastorus(list.codePostal,`https://www.castorus.com/s/`+list.linkCastorus+`--`+finder.surfaceMin+`--`+finder.prixMin+`-`+finder.prixMax+`-----------------------`);
+ getCastorus.getCastorus(list.codePostal,`https://www.castorus.com/s/`+list.linkCastorus+`,--`+finder.surfaceMin+`--`+finder.prixMin+`-`+finder.prixMax+`-----------------------`);
 }
