@@ -1,0 +1,4 @@
+# 0 6 * * * root node /home/labonneaffaire/castorus.js > /dev/null 2>&1
+# 0 8 * * * root node /home/labonneaffaire/tri_biens.js > /dev/null 2>&1
+0 22 * * * root node /home/labonneaffaire/bienici.js > /dev/null 2>&1
+
